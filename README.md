@@ -95,4 +95,6 @@ Love this project? Fork it, make improvements (e.g., add more models or themes),
 
 This project is licensed under the MIT License – feel free to use, modify, and share.
 
-Built with ❤️ by Nitish. Star the repo if it helped!
+## Authors
+
+Created by [Nitish](https://github.com/YarraguntlaNitish/). Star the repo if it boosts your open-source AI development!
